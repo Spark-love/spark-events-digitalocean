@@ -1,4 +1,4 @@
-# Hi.Events DigitalOcean
+# Spark Events DigitalOcean
 
 Deploy [Spark Events] with one click on DigitalOcean.
 
